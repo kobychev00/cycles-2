@@ -83,8 +83,8 @@ public class Main {
             if (i > 1850 && i < 2100) {
                 System.out.println(i);
             }
-        }
-        System.out.println("задача 8");
+        }//задача 9
+        System.out.println("задача 9");
 
         int i = 2;
             for (int j = 1; j <= 10; j++) {
