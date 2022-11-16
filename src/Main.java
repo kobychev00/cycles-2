@@ -84,7 +84,6 @@ public class Main {
                 System.out.println(i);
             }
         }
-        //  задача 8
         System.out.println("задача 8");
 
         int i = 2;
